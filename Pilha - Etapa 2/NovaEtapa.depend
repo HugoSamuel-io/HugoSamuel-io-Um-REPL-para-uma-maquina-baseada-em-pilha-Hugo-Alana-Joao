@@ -62,3 +62,34 @@
 	<stdio.h>
 	"stack.h"
 
+1736204671 source:d:\users\samuel\documents\estudos\hugosamuel-io-um-repl-para-uma-maquina-baseada-em-pilha-hugo-alana-joao\pilha - etapa 2\main.c
+	<stdio.h>
+	"interpret.h"
+	"stack.h"
+	"list.h"
+
+1733353942 d:\users\samuel\documents\estudos\hugosamuel-io-um-repl-para-uma-maquina-baseada-em-pilha-hugo-alana-joao\pilha - etapa 2\interpret.h
+
+1733353862 d:\users\samuel\documents\estudos\hugosamuel-io-um-repl-para-uma-maquina-baseada-em-pilha-hugo-alana-joao\pilha - etapa 2\stack.h
+
+1733876952 source:d:\users\samuel\documents\estudos\hugosamuel-io-um-repl-para-uma-maquina-baseada-em-pilha-hugo-alana-joao\pilha - etapa 2\stack.c
+	<stdlib.h>
+	<stdio.h>
+	"stack.h"
+
+1736200176 source:d:\users\samuel\documents\estudos\hugosamuel-io-um-repl-para-uma-maquina-baseada-em-pilha-hugo-alana-joao\pilha - etapa 2\interpret.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"interpret.h"
+	"stack.h"
+	"list.h"
+
+1736188041 d:\users\samuel\documents\estudos\hugosamuel-io-um-repl-para-uma-maquina-baseada-em-pilha-hugo-alana-joao\pilha - etapa 2\list.h
+
+1736187190 source:d:\users\samuel\documents\estudos\hugosamuel-io-um-repl-para-uma-maquina-baseada-em-pilha-hugo-alana-joao\pilha - etapa 2\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
